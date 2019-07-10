@@ -18,9 +18,11 @@ h1 {
 }
 
 a {
-  color: #00A2ED;
+  color: #CD5C5C;
   text-decoration: none;
 }
+
+a:hover {color: red}
 
 .links{
   text-transform: uppercase;
