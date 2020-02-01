@@ -1,5 +1,5 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #F8F8FF;
     display: flex;
     align-items: center;
 }
@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Open Sans';
   margin: 0 0 10px 0;
 }
 
@@ -18,15 +18,15 @@ h1 {
 }
 
 a {
-  color: #008080;
+  color: #000;
   text-decoration: none;
 }
 
-a:hover {color: 20B2AA}
+a:hover {color: 54B8A6}
 
 .links{
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 12px;
   margin: 15px 0 0 0;
 }
@@ -43,8 +43,8 @@ p {
 }
 
 .tosh-img {
-  width: 180px;
-  height: 180px;
+  width: 173px;
+  height: 190px;
   border-radius: 50%;
 }
 
